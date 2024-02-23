@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊Hi, I'm Joel Puig Sanchez - @jowwy99<br>🪴I'm currently learning FullStack Júnior Web Developer (JAVA)<br>🔎I'm interested in web developer <br>🏘️I'm from Res (Tarragona)<br>👅CAT|ESP|ENG<br>
+😊Hi, I'm Joel Puig Sanchez - @jowwy99<br>🪴I'm currently learning FullStack Júnior Web Developer (JAVA)<br>🔎I'm interested in web developer <br>🏘️I'm from Res (Tarragona)<br>👅CAT|ESP|ENG<br>🎂29/06/1999 (24y)
 
 
 ## 🌐 Socials:
